@@ -1,6 +1,0 @@
-D:\Edu\WebService\Tuan3\Client\Client\bin\Debug\Client.exe.config
-D:\Edu\WebService\Tuan3\Client\Client\bin\Debug\Client.exe
-D:\Edu\WebService\Tuan3\Client\Client\bin\Debug\Client.pdb
-D:\Edu\WebService\Tuan3\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Edu\WebService\Tuan3\Client\Client\obj\x86\Debug\Client.exe
-D:\Edu\WebService\Tuan3\Client\Client\obj\x86\Debug\Client.pdb
